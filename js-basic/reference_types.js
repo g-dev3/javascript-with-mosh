@@ -41,7 +41,7 @@ console.log(selectedColors);
 console.log(selectedColors.length);
 
 // Functions
-
+// perfoming a task
 function greet() {
   console.log("hello World");
 }
@@ -56,4 +56,13 @@ responce("Gopal",'Dev');
 responce("Sunil");
 responce("G dev3");
 
+//Types of functions
+
+//calcualting number
+
+function square(numer){
+  return numer * numer;
+}
+
+console.log(square(2))
 
