@@ -16,3 +16,14 @@ console.log(name)
 
 let firstName, lastname;  // do not declare like this, it's a bad habit
 
+// Constant value
+
+let interestRate = 0.3;
+
+interestRate = 1;
+
+console.log(interestRate)
+
+const interest = 0.3;
+// interest = 4;
+console.log(interest);
